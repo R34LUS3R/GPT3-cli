@@ -39,7 +39,12 @@ Its recommended to add this into `.bashrc`, `.zshrc` or `.profile` in your home 
 
 ```chmod +x gpt.py```
 
-```./gpt.py` or `python3 gpt.py "give me script for scraping a website"```
+`./gpt.py` or `python3 gpt.py "give me a ruby script for scraping a website"`
+
+
+<p align="left">
+  <img src="https://beeimg.com/images/w83430868521.png" width="420" height="420"  title="ruby script image chat GPT-3">
+</p>
 
 You can also make the script executable and move it to a directory in your PATH (e.g. `/usr/local/bin`):
 
@@ -50,7 +55,6 @@ Then you can run the script from any directory by simply typing `g3` from anywhe
 ```g3 "how do I convrt pdf to docx from cli?"```
 
 <br />
-<br /> 
 
 ## Configuration:
 The default values for the script's arguments are hardcoded at the top of the script. You can modify these values to change the behavior of the script.
