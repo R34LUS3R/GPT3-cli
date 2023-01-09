@@ -5,7 +5,7 @@ A command-line interface for interacting with the OpenAI GPT-3 API.
 1. Python 3.5 or later
 1. The requests library (install with `pip3 install requests`)
 1. The pygments library (install with `pip3 install pygments`)
-1. An OpenAI API key (sign up for a free API key at https://beta.openai.com/)
+1. An OpenAI API key (sign up for a free API key at https://beta.openai.com/ and after login head towards https://beta.openai.com/account/api-keys for API key"
 
 ## Usage:
 
