@@ -1,5 +1,14 @@
+Archiving becuase there is a better version avaialable which lets you intereact with the unreleased chatgpt model and not just OpenAI's davinci model:<br>
+https://github.com/acheong08/ChatGPT
+# Installation
+`pip3 install revChatGPT`
+# Command line
+`OfficialChatGPT --api_key API_KEY`
+<br><br>
 # GPT-3 CLI
 A command-line interface for interacting with the OpenAI GPT-3 API.
+## <p align="center">Bellow is the repository before Archived</p>
+## <p align="center">(Though you should be able to interact with the offical davinci model of OpenAI)</p>
 
 ## Requirements:
 1. Python 3.5 or later
